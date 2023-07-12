@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1386420876 source:f:\quiz_application final\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 f:\quiz_application final\conio2.h
+	<conio.h>
+	<windows.h>
+
+1661910611 source:f:\quiz_application final\icon.rc
+
+1663234979 source:f:\quiz_application final\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"conio2.h"
+	"quiz.h"
+	<dir.h>
+	<errno.h>
+
+1661982084 f:\quiz_application final\quiz.h
+	<cstring>
+	<string>
+
+1661984103 source:f:\quiz_application final\quiz.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	<string>
+	<fstream>
+	"conio2.h"
+	"quiz.h"
+
+1664621435 source:e:\quiz\quiz\quiz_application final\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1664621435 e:\quiz\quiz\quiz_application final\conio2.h
+	<conio.h>
+	<windows.h>
+
+1664621435 source:e:\quiz\quiz\quiz_application final\icon.rc
+
+1664621436 source:e:\quiz\quiz\quiz_application final\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"conio2.h"
+	"quiz.h"
+	<dir.h>
+	<errno.h>
+
+1664621437 e:\quiz\quiz\quiz_application final\quiz.h
+	<cstring>
+	<string>
+
+1664621437 source:e:\quiz\quiz\quiz_application final\quiz.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	<string>
+	<fstream>
+	"conio2.h"
+	"quiz.h"
+
